@@ -1,2 +1,18 @@
-# PTI02
-Projeto Integrador desenvolvido para a faculdade.
+2ª ENTREGA DO PROJETO INTEGRADOR: GESTÃO DE PROJETOS E ESTRUTURA DE EQUIPES
+
+GRUPO 01:
+
+ANDRE LUIZ DOS SANTOS REVERTE<br>
+CAROLINA TOMPSEN BANDEL<br>
+CLEVERSON CANDIDO ROSA<br>
+GABRIELA FRANCISCA BERNARDO<br>
+LUIS PAULO SALLES<br>
+NATALIE FRANCISCA FIGUEIREDO HASHIMOTO<br>
+
+Este documento possui:
+
+index.html<br>
+style.css<br>
+arquivos de imagem
+
+Acessível em desktop e mobile.
