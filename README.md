@@ -9,10 +9,14 @@ GABRIELA FRANCISCA BERNARDO<br>
 LUIS PAULO SALLES<br>
 NATALIE FRANCISCA FIGUEIREDO HASHIMOTO<br>
 
-Este documento possui:
+Este documento possui os seguintes arquivos:
 
 index.html<br>
 style.css<br>
 arquivos de imagem
 
-Acessível em desktop e mobile.
+Orientações:
+
+1. Acessar o site em desktop: https://pigrupo01.vercel.app/
+2. Apresentação em vídeo da plataforma: https://www.youtube.com/watch?v=rKbhAGytVJo&feature=youtu.be
+3. Acessar o repositório com os códigos: https://github.com/carolinabandel/PTI02
